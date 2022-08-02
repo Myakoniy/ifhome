@@ -3,7 +3,7 @@ public class Main {
 
         //условные операторы
 
-        //
+        //Zadanie 1
 
 
 
